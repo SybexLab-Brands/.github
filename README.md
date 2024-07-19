@@ -61,7 +61,7 @@ Unless otherwise stated, our projects are licensed under the [MIT License](LICEN
 
 If you have any questions, suggestions, or feedback, feel free to reach out to us:
 
-- **Email:** contact@sybexlab.org
+- **Email:** contact@sybexlab.com
 - **Twitter:** [@sybexlab](https://twitter.com/sybexlab)
 - **GitHub Issues:** Use the issue tracker in the relevant repository.
 
